@@ -5,7 +5,7 @@ title: Curriculum Vitae
 nav: true
 nav_order: 5
 cv_pdf: Gilles Deleuze, Félix Guattari - Qu'est-ce que la philosophie.pdf
-description: 🏺🤖🏺🤖🏺🤖🏺🤖🏺🤖🏺🤖🏺🤖🏺🤖
+description: En boton superior puedes descargar un PDF lindo 
 toc:
   sidebar: left
 ---

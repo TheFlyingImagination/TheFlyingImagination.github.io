@@ -355,14 +355,14 @@
       "reference": "La profesora Yenny Andrea Celemín fue una pieza clave para completar la investigación 'Entre sombras urbanas: culturas hegemónicas y desprotegidas en la ciudad'."
     }
   ],
-  "projects": [
+  "Proyectos": [
     {
       "name": "Sobre la mimesis forense: de la tradición a la transformación",
       "summary": "Este proyecto tenia como propósito recordar y analizar las raíces estéticas de la disciplina jurídica contemporánea. El concepto que permite iniciar una reconstrucción de estas raíces es el de mimesis. Puesto que, a través de este concepto, la tradición griega se hace presente en las reflexiones contemporáneas acerca del carácter estético de diversas manifestaciones creativas, más allá de las bellas artes..",
       "highlights": ["Estética clásica", "Teoría Crítica", ""],
       "startDate": "2023-12-01",
       "endDate": "2024-8-1",
-      "url": ""
+      "url": "www.nomeafanes.io"
     },
     {
       "name": "Entre sombras urbanas: culturas hegemónicas y desprotegidas en la ciudad",
@@ -370,7 +370,7 @@
       "highlights": ["Análisis Lingüístico de Corpus", "Derecho Administrativo"],
       "startDate": "2022-1-01",
       "endDate": "2024-8-1",
-      "url": ""
+      "url": "www.tenpaciencia.com"
     }
   ]
 }
