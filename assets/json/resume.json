@@ -24,11 +24,21 @@
   },
   "Exp. Laboral": [
     {
-      "name": "Facultad de Derecho, Universidad de los Andes",
+      "name": "Profesor de Francés",
+      "position": "Profesor de Francés",
+      "url": "https://www.farodealexandria.com/",
+      "startDate": "2020-1-1",
+      "endDate": "2022-1-1",
+      "summary": "Clases privadas, personalizadas y grupales",
+      "highlights": ["Francés"]
+    },
+
+    {
+      "name": "Asistente de investigación Autónomo, Fundación Ingeniería Jurídica ",
       "position": "Asistente de Investigación Autónomo",
       "url": "https://derecho.uniandes.edu.co/",
-      "startDate": "2018-06-01",
-      "endDate": "2018-11-1",
+      "startDate": "2022-06-1",
+      "endDate": "N/A",
       "summary": "Investigación en Derecho Administrativo",
       "highlights": ["Derecho Administrativo"]
     }
