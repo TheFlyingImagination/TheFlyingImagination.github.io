@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Este es un ejemplo de un noticia rápida, creada desde la carpeta _news.
