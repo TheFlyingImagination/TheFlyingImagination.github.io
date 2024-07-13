@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Info Básica": {
     "name": "Isaac Beltrán Bolívar",
     "label": "Filósofo, Abogado y Entusiasta Tecnológico",
     "image": "",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "Exp. Laboral": [
     {
       "name": "Facultad de Derecho, Universidad de los Andes",
       "position": "Asistente de Investigación Autónomo",
@@ -33,7 +33,7 @@
       "highlights": ["Derecho Administrativo"]
     }
   ],
-  "volunteer": [
+  "Trabajo Voluntario": [
     {
       "organization": "Iglesia de las Aguas",
       "location": "Bogotá, Colombia",
@@ -45,7 +45,7 @@
       "highlights": []
     }
   ],
-  "education": [
+  "Educación": [
     {
       "institution": "Universidad de los Andes, Bogotá D.C, Colombia",
       "location": "Bogotá, Colombia",
@@ -93,7 +93,7 @@
       "courses": ["Curaduría y Eventos; Gestión de Proyectos Culturales; El Artista y la Ciudad;"]
     }
   ],
-  "awards": [
+  "Premios": [
     {
       "title": "La Noche de los Mejores 2022",
       "date": "2022-12-1",
@@ -102,7 +102,7 @@
       "summary": "Reconocimiento nacional por puntaje en prueba de estado SABER-PRO"
     }
   ],
-  "certificates": [
+  "Certificados": [
     {
       "name": "Gabriel García Márquez entre el poder, la historia y el amor",
       "date": "2019-7-20",
@@ -174,13 +174,13 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "Publicaciones": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Hasta que lleguen las de verdad, escucha a Sofócles",
+      "publisher": "Filoctetes",
+      "releaseDate": "1999-06-11",
+      "url": "https://en.wikisource.org/wiki/Sophocles,_the_Seven_Plays_in_English_verse/Philoctetes",
+      "summary": "Una tragedia de Filoctetes."
     },
     {
       "name": "",
@@ -198,7 +198,7 @@
       "summary": ""
     }
   ],
-  "skills": [
+  "Habilidades": [
     {
       "name": "Derecho",
       "level": "Master",
@@ -262,7 +262,7 @@
       ]
     }
   ],
-  "languages": [
+  "Idiomas": [
     {
       "language": "Aleman",
       "fluency": "B2",
@@ -286,7 +286,7 @@
       "icon": "fa-solid fa-thumbtack"
     }    
   ],
-  "interests": [
+  "Intereses": [
     {
       "name": "Derecho",
       "icon": "fa-solid fa-tag",
@@ -333,7 +333,7 @@
     }
   ],
 
-  "references": [
+  "Referencias": [
     {
       "name": "Nicolás Lema Habash, Departamento de Filosofía, Universidad de los Andes",
       "icon": "fa-solid fa-laptop",
