@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Este es un ejemplo de un noticia rápida, creada desde la carpeta _news.
+Este es un ejemplo de un noticia rápida, creada desde la carpeta \_news.

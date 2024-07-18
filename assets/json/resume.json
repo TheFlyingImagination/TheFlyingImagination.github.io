@@ -67,7 +67,7 @@
       "score": "4.2",
       "courses": ["Derecho Público Administrativo; Acciones Públicas; Derecho Contencioso Administrativo"]
     },
-    
+
     {
       "institution": "Universidad de los Andes, Bogotá D.C, Colombia",
       "location": "Bogotá, Colombia",
@@ -79,7 +79,7 @@
       "score": "4.2",
       "courses": ["Lógica, Lenguaje y Racionalidad;Temas de Estética Aristotélica; Poética, Técnica y Política "]
     },
-    
+
     {
       "institution": "Universidad de los Andes, Bogotá D.C, Colombia",
       "location": "Bogotá, Colombia",
@@ -199,7 +199,7 @@
       "url": "",
       "summary": ""
     },
-    
+
     {
       "name": "",
       "publisher": "",
@@ -227,10 +227,7 @@
       "name": "Filosofía",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Investigación Cualitativa",
-        "Comunicación Escrita"
-      ]
+      "keywords": ["Investigación Cualitativa", "Comunicación Escrita"]
     },
     {
       "name": "Analisis de Datos",
@@ -245,7 +242,7 @@
         "Implementación de Bases de Datos"
       ]
     },
-    
+
     {
       "name": "Administración de Redes",
       "level": "Master",
@@ -283,18 +280,18 @@
       "fluency": "C1",
       "icon": "fa-solid fa-thumbtack"
     },
-    
+
     {
       "language": "Francés",
       "fluency": "C1",
       "icon": "fa-solid fa-thumbtack"
     },
-    
+
     {
       "language": "Español",
       "fluency": "Hablante Nativo",
       "icon": "fa-solid fa-thumbtack"
-    }    
+    }
   ],
   "Intereses": [
     {
@@ -311,24 +308,12 @@
     {
       "name": "Filosofía",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Estética Moderna",
-        "Estética Clásica",
-        "Filosofía Antigua",
-        "Oratoria Forense Ateniense",
-        "Teoría Crítica"
-      ]
+      "keywords": ["Estética Moderna", "Estética Clásica", "Filosofía Antigua", "Oratoria Forense Ateniense", "Teoría Crítica"]
     },
     {
       "name": "Lingüística Computacional",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Análisis de Corpus",
-        "LLMs",
-        "Procesamiento de Lenguaje Natural",
-        "Natural Language Tool Kit (NLTK)",
-        "Análisis de Sentimientos"
-      ]
+      "keywords": ["Análisis de Corpus", "LLMs", "Procesamiento de Lenguaje Natural", "Natural Language Tool Kit (NLTK)", "Análisis de Sentimientos"]
     },
     {
       "name": "Analisis de Datos",
