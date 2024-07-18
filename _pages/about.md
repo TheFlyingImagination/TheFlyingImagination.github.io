@@ -2,9 +2,7 @@
 layout: about
 title: Sobre mí
 permalink: /
-subtitle: Bogotá D.C, Localidad Candelaria. i.beltran@uniandes.edu.co
-If artworks answers to their own questions, they themselves thereby truly become questions #<a href='#'>Affiliations</a>
-
+subtitle: Bogotá D.C, Localidad Candelaria. i.beltran@uniandes.edu.co If artworks answers to their own questions, they themselves thereby truly become questions #<a href='#'>Affiliations</a>
 profile:
   align: right
   image: Moi.jpeg
