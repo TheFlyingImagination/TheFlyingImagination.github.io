@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Exp. Laboral": [
+  "Exp_Laboral": [
     {
       "name": "Profesor de Francés",
       "position": "Profesor de Francés",
@@ -43,7 +43,7 @@
       "highlights": ["Derecho Administrativo"]
     }
   ],
-  "Trabajo Voluntario": [
+  "Trabajo_Voluntario": [
     {
       "organization": "Iglesia de las Aguas",
       "location": "Bogotá, Colombia",
