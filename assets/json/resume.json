@@ -1,12 +1,12 @@
 {
   "Info_Basica": {
     "Nombre": "Isaac Beltrán Bolívar",
-    "label": "Filósofo, Abogado y Entusiasta Tecnológico",
+    "Titulo": "Filósofo, Abogado y Entusiasta Tecnológico",
     "image": "",
-    "email": "i.beltran@uniandes.edu.com",
-    "phone": "+57 3118772204",
+    "email": "i.beltran@uniandes.edu.co",
+    "Telefono": "+57 3118772204",
     "url": "https://theflyingimagination.github.io",
-    "summary": "A Colombian born philosopher and lawyer interested in the intersections of aesthetics, law and technology",
+    "Resumen": "Filósofo y abogado colombiano interesado en la tecnología, el derecho, la estética antigua y las intersecciones entre ellas.",
     "location": {
       "address": "Cra 1 Nº 18A - 12",
       "postalCode": "111711",
