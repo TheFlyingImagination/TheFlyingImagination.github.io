@@ -1,5 +1,5 @@
 {
-  "Info_Básica": {
+  "Info_Basica": {
     "name": "Isaac Beltrán Bolívar",
     "label": "Filósofo, Abogado y Entusiasta Tecnológico",
     "image": "",
@@ -55,7 +55,7 @@
       "highlights": []
     }
   ],
-  "Educación": [
+  "Educacion": [
     {
       "institution": "Universidad de los Andes, Bogotá D.C, Colombia",
       "location": "Bogotá, Colombia",
