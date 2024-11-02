@@ -71,7 +71,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2.2"
-          bundler-cache: false
+          bundler-cache: true
+          
+      - name: Install Dependencies
+        run: |
+          bundle install  # Ensure that all gems are installed
+
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
