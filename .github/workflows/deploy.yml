@@ -72,7 +72,7 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
-          
+
       - name: Install Dependencies
         run: |
           bundle install  # Ensure that all gems are installed

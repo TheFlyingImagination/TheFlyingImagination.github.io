@@ -2,7 +2,7 @@
 layout: about
 title: Sobre mí
 permalink: /
-subtitle: Bogotá D.C, Localidad Candelaria. i.beltran@uniandes.edu.co "If artworks answers to their own questions, they themselves thereby truly become questions" -T. Adorno  #<a href='#'>Affiliations</a>
+subtitle: Bogotá D.C, Localidad Candelaria. i.beltran@uniandes.edu.co "If artworks answers to their own questions, they themselves thereby truly become questions" -T. Adorno #<a href='#'>Affiliations</a>
 profile:
   align: right
   image: Moi.jpeg
@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 
 Mi nombre es Isaac Beltran Bolívar y nací en Colombia. Por medio de esta página busco tener un lugar para compartir proyectos e intereses con el mundo. Las conversaciones pausadas y con fuentes muy diversas me encantan. I really enjoy learning new things like languages, electronics and coding projects. My work mainly focuses on the integrations of technology to law. The consequences of these intersections captivate me and I believe pose some difficult questions for the future. Un lugar en el que me pueden encontrar es [aquí](https://www.reddit.com/r/askphilosophy/). Disfruto jugar videojuegos y pensar los juegos como objetos estéticos.
 
-Creo importante construir comunidad académica y conectar con personas que compartan intereses y busquen entrar en contacto. Algunas de las formas en las que preveo la construcción de esta comunidad es apartir de la discusión y la colaboración en proyectos que puedan interesar a personas de diversos contextos. Igualmente creo necesario habitar el Internet como un espacio para compartir ideas y fomentar el dialógo y la conexión. Para realizar eso considero que es necesario expresar vulnerabilidad en espacios públicos tales como este. 
+Creo importante construir comunidad académica y conectar con personas que compartan intereses y busquen entrar en contacto. Algunas de las formas en las que preveo la construcción de esta comunidad es apartir de la discusión y la colaboración en proyectos que puedan interesar a personas de diversos contextos. Igualmente creo necesario habitar el Internet como un espacio para compartir ideas y fomentar el dialógo y la conexión. Para realizar eso considero que es necesario expresar vulnerabilidad en espacios públicos tales como este.
 
 {::comment}Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. {:/comment}
