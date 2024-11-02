@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primer Post
-date: 2024-08-05 19:00:16
+date: 2024-08-05 19:00:16 -0000
 description: ¿Para qué sirve un blog?
 tags: bienvenida
 categories: post
