@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Energy and Taxes a Data Analysis Perspective
+description: What is the relationship between energy consumption and taxes?
+img: assets/img/Figure1.png
 importance: 2
 category: work
 giscus_comments: true

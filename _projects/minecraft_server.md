@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
+title: Minecraft Server with Crafty
+description: Community and Videogames
+img: assets/img/friendsminecraft.png
+importance: 2
 category: fun
 ---
 
