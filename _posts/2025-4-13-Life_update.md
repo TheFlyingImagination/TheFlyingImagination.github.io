@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life update
-date: 2024-4-13 14:00:00-0000
+date: 2025-4-13 14:00:00-0000
 description: What has happened in these first 4 months of 2025
 tags: Life
 categories: post
@@ -17,7 +17,7 @@ But that’s not the only big news: **I’m getting married!** This new chapter 
 And as I write this, I’m in the peaceful town of **Monguí, Boyacá**—surrounded by mountains, cobblestone streets, and a calm that makes it the perfect place to reflect and be grateful.
 
 Here's to growth, purpose, and beautiful changes.
-![Vista Panoramica en Mongui](assets/img/mongui2025.jpg)
+![Vista Panoramica en Mongui](/assets/img/mongui2025.jpg)
 
 # Nuevos Comienzos: Un Nuevo Trabajo, Una Nueva Etapa y Una Vista desde Monguí
 
